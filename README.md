@@ -1,7 +1,7 @@
 ### <div align="center">Hi 👋, my name is João Pinheiro!</div>  
   
 
-- 🎓 I'm a 20 year old taking Computer Science in College
+- 🎓 I'm a 20 year old taking Web and Multimedia Information Technologies
 
 
 - ⚡ Fun fact: I like Airsoft 🔫
