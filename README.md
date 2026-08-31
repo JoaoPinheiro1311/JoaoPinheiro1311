@@ -45,5 +45,5 @@ Degree in **Information Technologies, Web & Multimedia** @ Instituto Politécnic
 ## 📫 Let's Connect
 
 - **Email:** joaopedropinheiro1313@gmail.com
-- **LinkedIn:** [Check out my profile]([https://linkedin.com](https://www.linkedin.com/in/joaopinheiro13/))
+- **LinkedIn:** www.linkedin.com/in/joaopinheiro13/
 - **Location:** Portugal 🇵🇹
