@@ -30,7 +30,7 @@ Full-stack developer passionate about building clean, responsive web experiences
 
 ## 🎓 Background
 
-Bachelor's in **Information Technologies, Web & Multimedia** @ Instituto Politécnico da Maia (2024–2026)
+Degree in **Information Technologies, Web & Multimedia** @ Instituto Politécnico da Maia (2024–2026)
 
 **Current:** Front-End Developer @ FTW — For The Win
 
@@ -45,5 +45,5 @@ Bachelor's in **Information Technologies, Web & Multimedia** @ Instituto Polité
 ## 📫 Let's Connect
 
 - **Email:** joaopedropinheiro1313@gmail.com
-- **LinkedIn:** [Check out my profile](https://linkedin.com)
+- **LinkedIn:** [Check out my profile]([https://linkedin.com](https://www.linkedin.com/in/joaopinheiro13/))
 - **Location:** Portugal 🇵🇹
