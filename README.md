@@ -1,48 +1,117 @@
-### <div align="center">Hi 👋, my name is João Pinheiro!</div>  
-  
+# João Pinheiro
 
-- 🎓 I'm a 20 year old taking Web and Multimedia Information Technologies
+### Web Developer | Front-End | IT
 
+Web Developer with a Bachelor's Degree in Information Technologies, Web and Multimedia, with practical experience through internships in web development, front-end development and WordPress.
 
-- ⚡ Fun fact: I like Airsoft 🔫
-  
+My main focus is building responsive and user-friendly web interfaces, working primarily with HTML, CSS, JavaScript and React. I also have experience with WordPress, website maintenance, debugging and UI implementation.
 
-<br/>  
+Alongside web development, I have a technical background in Windows systems, computer hardware, networking and general troubleshooting.
 
-<div align="center">
+---
 
-<table width="100%">
-<tr>
-<td valign="top" width="33%">
+## About Me
 
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-</div>  
+- 🎓 Bachelor's Degree in Information Technologies, Web and Multimedia
+- 💻 Experience in Web Development and Front-End Development
+- 🌐 Experience developing and maintaining websites and web interfaces
+- 🧩 Experience with WordPress and website customization
+- 🖥️ Knowledge of Windows, hardware and software troubleshooting
+- 🎨 Experience with Figma and Adobe Photoshop
+- 🔧 Comfortable working with Git and modern development tools
+- 📍 Portugal
 
-### Others
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
-</td><td valign="top" width="33%">
+---
 
-### Backend  
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-</div>
+## Core Technologies
 
-</td><td valign="top" width="33%">
+### Web Development
 
+- HTML5
+- CSS3
+- JavaScript
+- React
+- WordPress
+- Responsive Web Design
 
-### Programming Languages  
-<div align="center">
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>
+### IT & Systems
 
-</td></tr></table>
+- Windows
+- Hardware Troubleshooting
+- Software Troubleshooting
+- System Configuration
+- Peripheral Configuration
+- Basic Networking
 
-</div>
+### Tools & Design
+
+- Git
+- GitHub
+- Visual Studio Code
+- Figma
+- Adobe Photoshop
+
+---
+
+## Selected Projects
+
+### Campus Navigation PWA
+
+Progressive Web Application developed for campus navigation using Ionic and Angular.
+
+**Focus:** Web Application Development, UI, Navigation and Responsive Design
+
+### NIST Cybersecurity Framework 2.0
+
+Academic project focused on applying the NIST Cybersecurity Framework to assess cybersecurity practices and risks within a small organization.
+
+**Focus:** Cybersecurity Fundamentals, Risk Assessment and Security Frameworks
+
+### Game Interface Design
+
+Game interface and user-flow design developed using Figma.
+
+**Focus:** UI/UX, Interface Design and User Experience
+
+---
+
+## Professional Experience
+
+**FTW — For The Win**  
+*Front-End Web Developer Intern · 2025–2026*
+
+Worked on web interfaces and front-end development for esports-related projects, including responsive layouts, UI implementation, website updates and graphical assets.
+
+**Web Development Company**  
+*Web Developer Intern · 2025*
+
+Developed and maintained websites using HTML, CSS and JavaScript, with experience using React for front-end development.
+
+**WordPress Development Company**  
+*Web Development & Multimedia Intern · 2024*
+
+Developed and customized WordPress websites, performed website maintenance and worked with HTML, CSS and Adobe Photoshop.
+
+---
+
+## Education
+
+**Bachelor's Degree in Information Technologies, Web and Multimedia**  
+Instituto Politécnico da Maia · 2024–2026
+
+**CTESP in Multimedia Production and Digital Games**  
+Instituto Politécnico da Maia · 2023–2024
+
+---
+
+## Languages
+
+- Portuguese — Native
+- English — Fluent
+
+---
+
+## Contact
+
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/)
+- Email: joaopedropinheiro1313@gmail.com
